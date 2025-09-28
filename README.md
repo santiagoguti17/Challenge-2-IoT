@@ -10,6 +10,6 @@ Santiago Urrego
 
 ## Información importante
 
-En este repositorio se econtrarán adjuntas las actas de reunión realizadas durante la elaboración del proyecto, además de imágenes de la construcción del proyecto y el código del mismo. 
+En este repositorio se econtrarán adjuntas las actas de reunión realizadas durante la elaboración del proyecto, los diagramas UML solicitados para el proyecto y el código del mismo. 
 
 Además de esto en la sección "Wiki" del repositorio se encontrará la documentación correspondiente a toda la realización del proyecto.
